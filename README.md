@@ -39,7 +39,7 @@
 
 ### CLONE
 ```
-git clone
+git clone https://github.com/vikasgrewal16/Video-Categorization
 ```
 ### RUNNING
 ```
